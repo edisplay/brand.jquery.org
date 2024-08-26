@@ -11,8 +11,6 @@
 
 Cario is reserved for attention grabbing headlines, titles, and standaline important text. Using this typeface for your headlines is a great way to keep the jQuery brand first and foremost and create a seamless experience for your audience.
 
-The approved weights for Klavika are Bold and Bold Italic.
-
 <a href="https://github.com/Gue3bara/Cairo" class="button">Download Cairo</a>
 <a href="https://github.com/jquery/jquery-wp-content/tree/30f3cab5b5c1b207ac0a022802f5ed4cf8b98db5/themes/jquery/lib/Cairo" class="button">Self-hosted copy</a>
 
